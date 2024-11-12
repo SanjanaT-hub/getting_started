@@ -1,0 +1,496 @@
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+Bank of India,7 days to 14 days,3.00,,3.00,,3.00,,30000000
+Bank of India,15 days to 30 days,3.00,,3.00,,3.00,,30000000
+Bank of India,31 days to 45 days,3.00,,3.00,,3.00,,30000000
+Bank of India,46 days to 90 days,4.50,,4.50,,4.50,,30000000
+Bank of India,91 days to 179 days,4.50,,4.50,,4.50,,30000000
+Bank of India,180 days to 210 days,6.00,,6.5,,6.65,,30000000
+Bank of India,211 days to 269 days,6.00,,6.5,,6.65,,30000000
+Bank of India,270 days to less than 1 Year,6.00,,6.5,,6.65,,30000000
+Bank of India,1 Year,6.80,,7.3,,7.45,,30000000
+Bank of India,Above 1 Year to less than 2 Years (except 400 Days),6.80,,7.3,,7.45,,30000000
+Bank of India,400 days,7.30,,7.8,,7.95,,30000000
+Bank of India,2 Years,6.80,,7.3,,7.45,,30000000
+Bank of India,Above 2 Years to less than 3 Years,6.75,,7.25,,7.4,,30000000
+Bank of India,3 Years to less than 5 Years,6.50,,7.0,,7.15,,30000000
+Bank of India,5 Years to less than 8 Years,6.00,,6.5,,6.65,,30000000
+Bank of India,8 years & above to 10 Years,6.00,,6.5,,6.65,,30000000
+Bank of Maharashtra,7 - 30 days,2.75%,,,,,,30000000
+Bank of Maharashtra,31-45 days,3.00%,,,,,,30000000
+Bank of Maharashtra,46-90 days,4.75%,,,,,,30000000
+Bank of Maharashtra,91-119 days,5.00%,,,,,,30000000
+Bank of Maharashtra,120-180 days,5.25%,,,,,,30000000
+Bank of Maharashtra,181 - 270 days,5.75%,,,,,,30000000
+Bank of Maharashtra,271 - 364 days,5.75%,,,,,,30000000
+Bank of Maharashtra,365 days/ One Year,6.75%,,,,,,30000000
+Bank of Maharashtra,Above 1 year to 2 years,6.50%,,,,,,30000000
+Bank of Maharashtra,Above 2 years to 3 years,6.50%,,,,,,30000000
+Bank of Maharashtra,Above 3 years to 5 years,6.50%,,,,,,30000000
+Bank of Maharashtra,Above 5 years,6.50%,,,,,,30000000
+Canara Bank,7 Days to 45                                             Days,4.00%,4.06%,4.00%,4.06%,,,30000000
+Canara Bank,46 Days to 90                                             Days,5.25%,5.35%,5.25%,5.35%,,,30000000
+Canara Bank,91 Days to 179                                             Days,5.50%,5.61%,5.50%,5.61%,,,30000000
+Canara Bank,180 Days to 269                                             Days,6.15%,6.29%,6.65%,6.82%,,,30000000
+Canara Bank,270 Days to less than                                             1 Year,6.25%,6.40%,6.75%,6.92%,,,30000000
+Canara Bank,1 Year Only,6.85%,7.03%,7.35%,7.56%,,,30000000
+Canara Bank,444 Days,7.25%,7.45%,7.75%,7.98%,,,30000000
+Canara Bank,Above 1 Year to less                                             than 2 Years,6.85%,7.03%,7.35%,7.56%,,,30000000
+Canara Bank,2 Years & above                                             to less than 3 Years,6.85%,7.03%,7.35%,7.56%,,,30000000
+Canara Bank,3 Years & above                                             to less than 5 Years,6.80%,6.98%,7.30%,7.50%,,,30000000
+Central Bank of India,7 -14 days,3.50%,3.50%,4.00%,4.00%,,,30000000
+Central Bank of India,15 – 30 days,3.75%,3.75%,4.25%,4.25%,,,30000000
+Central Bank of India,31 - 45 days,3.75%,3.75%,4.25%,4.25%,,,30000000
+Central Bank of India,46 – 59 days,4.50%,4.50%,5.00%,5.00%,,,30000000
+Central Bank of India,60 – 90 days,4.75%,4.75%,5.25%,5.25%,,,30000000
+Central Bank of India,91 – 179 days,5.50%,5.50%,6.00%,6.00%,,,30000000
+Central Bank of India,180 – 270 days,6.25%,6.40%,6.75%,6.92%,,,30000000
+Central Bank of India,271 – 364 days,6.25%,6.40%,6.75%,6.92%,,,30000000
+Central Bank of India,1 yr  to less than 2 yrs,6.85%,7.03%,7.35%,7.56%,,,30000000
+Central Bank of India,2 yr to less than 3 years,7.00%,7.19%,7.50%,7.71%,,,30000000
+Central Bank of India,3 yr to less than 5 years,6.75%,6.92%,7.25%,7.45%,,,30000000
+Central Bank of India,5 years & above upto 10 years,6.50%,6.66%,7.00%,7.19%,,,30000000
+State Bank of India,7 days to 45 days,3.50%,,4.00%,,,,30000000
+State Bank of India,46 days to 179 days,5.50%,,6.00%,,,,30000000
+State Bank of India,180 days to 210 days,6.25%,,6.75%,,,,30000000
+State Bank of India,211 days to less than 1 year,6.50%,,7.00%,,,,30000000
+State Bank of India,1 Year to less than 2 years,6.80%,,7.30%,,,,30000000
+State Bank of India,2 years to less than 3 years,7.00%,,7.50%,,,,30000000
+State Bank of India,3 years to less than 5 years,6.75%,,7.25%,,,,30000000
+State Bank of India,5 years and up to 10 years,6.50%,,7.50%,,,,30000000
+Axis Bank,7 – 14 days,3.00%,,3.50%,,,,30000000
+Axis Bank,15 – 29 days,3.00%,,3.50%,,,,30000000
+Axis Bank,30 – 45 days,3.50%,,4.00%,,,,30000000
+Axis Bank,46 – 60 days,4.25%,,4.75%,,,,30000000
+Axis Bank,61 days < 3 months,4.50%,,5.00%,,,,30000000
+Axis Bank,3 months – 3 months 24 days,4.75%,,5.25%,,,,30000000
+Axis Bank,3 months 25 days < 4 months,4.75%,,5.25%,,,,30000000
+Axis Bank,4 months < 5 months,4.75%,,5.25%,,,,30000000
+Axis Bank,5 months < 6 months,4.75%,,5.25%,,,,30000000
+Axis Bank,6 months < 7 months,5.75%,,6.25%,,,,30000000
+Axis Bank,7 months < 8 months,5.75%,,6.25%,,,,30000000
+Axis Bank,8 months < 9 months,5.75%,,6.25%,,,,30000000
+Axis Bank,9 months < 10 months,6.00%,,6.50%,,,,30000000
+Axis Bank,10 months < 11 months,6.00%,,6.50%,,,,30000000
+Axis Bank,11 months – 11 months 24 days,6.00%,,6.50%,,,,30000000
+Axis Bank,11 months 25 days < 1 year,6.00%,,6.50%,,,,30000000
+Axis Bank,1 year – 1 year 4 days,6.70%,,7.20%,,,,30000000
+Axis Bank,1 year 5 days – 1 year 10 days,6.70%,,7.20%,,,,30000000
+Axis Bank,1 year 11 days – 1 year 24 days,6.70%,,7.20%,,,,30000000
+Axis Bank,1 year 25 days < 13 months,6.70%,,7.20%,,,,30000000
+Axis Bank,13 months < 14 months,6.70%,,7.20%,,,,30000000
+Axis Bank,14 months < 15 months,6.70%,,7.20%,,,,30000000
+Axis Bank,15 months < 16 months,7.10%,,7.60%,,,,30000000
+Axis Bank,16 months < 17 months,7.10%,,7.60%,,,,30000000
+Axis Bank,17 months < 18 months,7.20%,,7.70%,,,,30000000
+Axis Bank,18 Months < 2 years,7.10%,,7.60%,,,,30000000
+Axis Bank,2 years < 30 months,7.10%,,7.60%,,,,30000000
+Axis Bank,30 months < 3 years,7.10%,,7.60%,,,,30000000
+Axis Bank,3 years < 5 years,7.10%,,7.60%,,,,30000000
+Axis Bank,5 years to 10 years,7.00%,,7.75%,,,,30000000
+Bandhan Bank,7 days to 14 days,3.00%,,3.75%,,,,30000000
+Bandhan Bank,15 days to 30 days,3.00%,,3.75%,,,,30000000
+Bandhan Bank,31 days to less than 2 months,3.50%,,4.25%,,,,30000000
+Bandhan Bank,2 months to less than 3 months,4.50%,,5.25%,,,,30000000
+Bandhan Bank,3 months to less than 6 months,4.50%,,5.25%,,,,30000000
+Bandhan Bank,6 months to less than 1 year,4.50%,,5.25%,,,,30000000
+Bandhan Bank,1 year,8.05%,,8.55%,,,,30000000
+Bandhan Bank,1 year 1 day to 1 year 9 months,8.00%,,8.50%,,,,30000000
+Bandhan Bank,1 year 9 months 1 day to less than 2 years,7.25%,,7.75%,,,,30000000
+Bandhan Bank,2 years to less than 3 years,7.25%,,7.75%,,,,30000000
+Bandhan Bank,3 years to less than 5 years,7.25%,,7.75%,,,,30000000
+Bandhan Bank,5 years to up to 10 years,5.85%,,6.60%,,,,30000000
+Bandhan Bank,Tax Saver Fixed Deposit,7.00%,,7.50%,,,,30000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+Federal Bank,7 days to 29 days,3.00%,,3.50%,,,,30000000
+Federal Bank,30 days to 45 days,3.25%,,3.75%,,,,30000000
+Federal Bank,46 days to 60 days,4.00%,,4.50%,,,,30000000
+Federal Bank,61 days to 119 days,4.75%,,5.25%,,,,30000000
+Federal Bank,120 days to 180 days,5.00%,,5.50%,,,,30000000
+Federal Bank,181 days,6.50%,,7.00%,,,,30000000
+Federal Bank,182 days to less than 1 year,6.25%,,6.75%,,,,30000000
+Federal Bank,1 year to 399 days,6.80%,,7.30%,,,,30000000
+Federal Bank,400 days,7.35%,,7.85%,,,,30000000
+Federal Bank,401 days to 776 days,7.05%,,7.55%,,,,30000000
+Federal Bank,777 days,7.40%,,7.90%,,,,30000000
+Federal Bank,778 days to less than 3 years,7.05%,,7.55%,,,,30000000
+Federal Bank,3 years to less than 50 months,7.00%,,7.50%,,,,30000000
+Federal Bank,50 Months,7.40%,,7.90%,,,,30000000
+Federal Bank,Above 50 months to less than 5 years,7.00%,,7.50%,,,,30000000
+Federal Bank,5 years and above,6.60%,,7.25%,,,,30000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+HDFC Bank,7 - 14 days,3.00%,,3.50%,,,,30000000
+HDFC Bank,15 - 29 days,3.00%,,3.50%,,,,30000000
+HDFC Bank,30 - 45 days,3.50%,,4.00%,,,,30000000
+HDFC Bank,46 - 60 days,4.50%,,5.00%,,,,30000000
+HDFC Bank,61 - 89 days,4.50%,,5.00%,,,,30000000
+HDFC Bank,90 days < = 6 months,4.50%,,5.00%,,,,30000000
+HDFC Bank,6 months 1 days  < = 9 months,5.75%,,6.25%,,,,30000000
+HDFC Bank,9 months 1 day to < 1 year,6.00%,,6.50%,,,,30000000
+HDFC Bank,1 year to < 15 months,6.60%,,7.10%,,,,30000000
+HDFC Bank,15 months to < 18 months,7.10%,,7.60%,,,,30000000
+HDFC Bank,18 months to < 21 months,7.25%,,7.75%,,,,30000000
+HDFC Bank,21 months - 2 years,7.00%,,7.50%,,,,30000000
+HDFC Bank,2 Years 1 day to < 2 Year 11 Months,7.00%,,7.50%,,,,30000000
+HDFC Bank,2 Years 11 Months - 35 Months,7.35%,,7.85%,,,,30000000
+HDFC Bank,2 Years 11 Months 1 day < = 3 Year,7.00%,,7.50%,,,,30000000
+HDFC Bank,3 Years 1 day to < 4 Years 7 Months,7.00%,,7.50%,,,,30000000
+HDFC Bank,4 Year 7 Months - 55 months,7.40%,,7.90%,,,,30000000
+HDFC Bank,4 Year 7 Months 1 day < = 5 Years,7.00%,,7.50%,,,,30000000
+HDFC Bank,5 Years 1 day - 10 Years,7.00%,,7.50%,,,,30000000
+IndusInd Bank,7 days to 14 days,3.50%,,4.00%,,,,30000000
+IndusInd Bank,15 days to 30 days,3.50%,,4.00%,,,,30000000
+IndusInd Bank,31 days to 45 days,3.75%,,4.25%,,,,30000000
+IndusInd Bank,46 days to 60 days,4.75%,,5.25%,,,,30000000
+IndusInd Bank,61 days to 90 days,4.75%,,5.25%,,,,30000000
+IndusInd Bank,91 days to 120 days,4.75%,,5.25%,,,,30000000
+IndusInd Bank,121 days to 180 days,5.00%,,5.50%,,,,30000000
+IndusInd Bank,181 days to 210 days,5.85%,,6.35%,,,,30000000
+IndusInd Bank,211 days to 269 days,6.10%,,6.60%,,,,30000000
+IndusInd Bank,270 days to 354 days,6.35%,,6.85%,,,,30000000
+IndusInd Bank,355 days to 364 days,6.50%,,7.00%,,,,30000000
+IndusInd Bank,1 Year to below 1 Year 3 months,7.75%,,8.25%,,,,30000000
+IndusInd Bank,1 Year 3 months (15 months) to below 1 Year 4 months (16 months),7.75%,,8.25%,,,,30000000
+IndusInd Bank,1 Year 4 months to below 1 Year 6 months,7.75%,,8.25%,,,,30000000
+IndusInd Bank,1 Year 6 Months up to 2 Years,7.75%,,8.25%,,,,30000000
+IndusInd Bank,Above 2 Years to below 2 Years 6 Month,7.25%,,7.75%,,,,30000000
+IndusInd Bank,2 years 6 Months (30 months) to below 2 years 7 months (31 months),7.25%,,7.75%,,,,30000000
+IndusInd Bank,2 year 7 months to 3 years 3 months,7.25%,,7.75%,,,,30000000
+IndusInd Bank,Above 3 years 3 months to below 61 month,7.25%,,7.75%,,,,30000000
+IndusInd Bank,61 month and above,7.00%,,7.50%,,,,30000000
+IndusInd Bank,Indus Tax Saver Scheme (5 years),7.25%,,7.75%,,,,30000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+IDFC Bank,7 – 14 days,3.00%,,3.50%,,,,30000000
+IDFC Bank,15 – 29 days,3.00%,,3.50%,,,,30000000
+IDFC Bank,30 – 45 days,3.00%,,3.50%,,,,30000000
+IDFC Bank,46 – 90 days,4.50%,,5.00%,,,,30000000
+IDFC Bank,91 – 180 days,4.50%,,5.00%,,,,30000000
+IDFC Bank,181 days – & less than 1 year,5.75%,,6.25%,,,,30000000
+IDFC Bank,1 year,6.50%,,7.00%,,,,30000000
+IDFC Bank,1 year 1 day – 399 days,7.25%,,7.75%,,,,30000000
+IDFC Bank,400 days,7.75%,,8.25%,,,,30000000
+IDFC Bank,401 days – 2 years,6.80%,,7.30%,,,,30000000
+IDFC Bank,2 years 1 day – 3 years,7.00%,,7.50%,,,,30000000
+IDFC Bank,3 years 1 day – 5 years,6.75%,,7.25%,,,,30000000
+IDFC Bank,5 years- 1 day – 10 years,6.50%,,7.00%,,,,30000000
+IDFC Bank,5 years,6.75%,,7.25%,,,,30000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+Jammu and Kashmir Bank,7    days to 30 days,3.50%,,4.0%,,,,30000000
+Jammu and Kashmir Bank,31    days to 45 days,3.50%,,4.0%,,,,30000000
+Jammu and Kashmir Bank,46    days to 90 days,5.25%,,5.75%,,,,30000000
+Jammu and Kashmir Bank,91    days to 180 days,5.50%,,6.0%,,,,30000000
+Jammu and Kashmir Bank,181    days to 270 days,6.25%,,6.75%,,,,30000000
+Jammu and Kashmir Bank,271    days to less than 1 year,6.25%,,6.75%,,,,30000000
+Jammu and Kashmir Bank,1    Year to less than 2 years,7.00%,,7.5%,,,,30000000
+Jammu and Kashmir Bank,2    years to less than 3 years,7.00%,,7.5%,,,,30000000
+Jammu and Kashmir Bank,3    years to less than 5 years,6.75%,,7.25%,,,,30000000
+Jammu and Kashmir Bank,5    years to 10 years,6.50%,,7.0%,,,,30000000
+Karur Vysya Bank,7 Days to 14 days,4.00%,4.06%,,,,,30000000
+Karur Vysya Bank,15 Days to 30 days,4.00%,4.06%,,,,,30000000
+Karur Vysya Bank,31 Days to 45 days,5.25%,5.35%,,,,,30000000
+Karur Vysya Bank,46 Days to 90 days,5.25%,5.35%,,,,,30000000
+Karur Vysya Bank,91 Days to 120 days ,6.00%,6.14%,,,,,30000000
+Karur Vysya Bank,121 Days to 180 days,6.00%,6.14%,,,,,30000000
+Karur Vysya Bank,181 Days to 270 days,6.25%,6.40%,,,,,30000000
+Karur Vysya Bank,271 Days to less than 332 days,6.50%,6.66%,,,,,30000000
+Karur Vysya Bank,333 days,7.40%,7.61%,,,,,30000000
+Karur Vysya Bank,334 days to less than 1 year,6.50%,6.66%,,,,,30000000
+Karur Vysya Bank,1 year and upto 443 days,7.00%,7.19%,,,,,30000000
+Karur Vysya Bank,444 Days,7.50%,7.71%,,,,,30000000
+Karur Vysya Bank,445 Days upto 2 years,7.00%,7.19%,,,,,30000000
+Karur Vysya Bank,Above 2 years upto 759 days ,7.00%,7.19%,,,,,30000000
+Karur Vysya Bank,760 Days Special Deposit,7.60%,7.82%,,,,,30000000
+Karur Vysya Bank,761 Days up to 3 years,7.00%,7.19%,,,,,30000000
+Karur Vysya Bank,Above 3 years upto 5 years,7.00%,7.19%,,,,,30000000
+Karur Vysya Bank,Above 5 years upto 6 years,6.25%,6.40%,,,,,30000000
+Karur Vysya Bank,Above 6 years,6.25%,6.40%,,,,,30000000
+Karur Vysya Bank,For KVB - Tax Shield Deposits,5.90%,6.03%,,,,,30000000
+Karur Vysya Bank,Rainbow Deposits(RBFD),5.25%,5.35%,,,,,30000000
+Kotak Mahindra Bank,7 - 14 Days,2.75%,2.75%,3.25%,3.25%,,,30000000
+Kotak Mahindra Bank,15 - 30 Days,3.00%,3.00%,3.50%,3.50%,,,30000000
+Kotak Mahindra Bank,31 - 45 Days,3.25%,3.25%,3.75%,3.75%,,,30000000
+Kotak Mahindra Bank,46 - 90 Days,3.50%,3.50%,4.00%,4.00%,,,30000000
+Kotak Mahindra Bank,91 - 120 Days,4.00%,4.00%,4.50%,4.50%,,,30000000
+Kotak Mahindra Bank,121 - 179 days,4.25%,4.25%,4.75%,4.75%,,,30000000
+Kotak Mahindra Bank,180 Days,7.00%,7.00%,7.50%,7.50%,,,30000000
+Kotak Mahindra Bank,181 Days to 269 Days,6.00%,6.09%,6.50%,6.61%,,,30000000
+Kotak Mahindra Bank,270 Days,6.00%,6.09%,6.50%,6.61%,,,30000000
+Kotak Mahindra Bank,271 Days to 363 Days,6.00%,6.09%,6.50%,6.61%,,,30000000
+Kotak Mahindra Bank,364 Days,6.50%,6.61%,7.00%,7.12%,,,30000000
+Kotak Mahindra Bank,365 Days to 389 Days,7.10%,7.29%,7.60%,7.82%,,,30000000
+Kotak Mahindra Bank,390 Days (12 months 25 days),7.40%,7.61%,7.90%,8.14%,,,30000000
+Kotak Mahindra Bank,391 Days - Less than 23 Months,7.40%,7.61%,7.90%,8.14%,,,30000000
+Kotak Mahindra Bank,23 Months,7.30%,7.50%,7.85%,8.08%,,,30000000
+Kotak Mahindra Bank,23 months 1 Day- less than 2 years,7.30%,7.50%,7.85%,8.08%,,,30000000
+Kotak Mahindra Bank,2 years- less than 3 years,7.15%,7.34%,7.65%,7.87%,,,30000000
+Kotak Mahindra Bank,3 years and above but less than 4 years,7.00%,7.19%,7.60%,7.82%,,,30000000
+Kotak Mahindra Bank,4 years and above but less than 5 years,7.00%,7.19%,7.60%,7.82%,,,30000000
+Kotak Mahindra Bank,5 years and above upto and inclusive of 10 years,6.20%,6.35%,6.70%,6.87%,,,30000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+Nainital Bank,7 days    to 14 days,3.25%,,3.75%,,3.85%,,20000000
+Nainital Bank,15 days    to 30 days,3.25%,,3.75%,,3.85%,,20000000
+Nainital Bank,31 days    to 45 days,3.25%,,3.75%,,3.85%,,20000000
+Nainital Bank,46 days    to 90 days,4.25%,,4.75%,,4.85%,,20000000
+Nainital Bank,91 days    to 179 days,4.25%,,4.75%,,4.85%,,20000000
+Nainital Bank,180 days and above but less than 270 days,4.95%,,5.45%,,5.55%,,20000000
+Nainital Bank,270 days and above but less than 1 year,5.75%,,6.25%,,6.35%,,20000000
+Nainital Bank,1 year and above but less than or  equal to 18 months,6.70%,,7.2%,,7.3%,,20000000
+Nainital Bank,Above 18 months but less than or  equal to 2 years,6.25%,,6.75%,,6.85%,,20000000
+Nainital Bank,Above 2 years but less than or equal to 3 years,6.25%,,6.75%,,6.85%,,20000000
+Nainital Bank,Above 3 years but less than or equal to 5 years,5.75%,,6.25%,,6.35%,,20000000
+Nainital Bank,Above 5 years but less than or equal to upto 10 years,5.35%,,5.85%,,5.949999999999999%,,20000000
+Nainital Bank,Naini Plus 2023 Deposit Scheme (Callable) -400 days,7.05%,,7.55%,,7.6499999999999995%,,20000000
+Nainital Bank,Naini Plus 2023 Deposit Scheme Deposit (Non-Callable) – 400 days,7.10%,,7.6%,,7.699999999999999%,,20000000
+Nainital Bank,Naini    Tax Saver Scheme*,5.75%,,,,,,20000000
+bank_name,tenure,gen_rate,annualised_gen_rate,sr_rate,annualised_sr_rate,super_sr_rate,annualised_super_sr_rate,threshold_amt
+RBL Bank,7 days to 14 days,3.50%,,4.00%,,4.25%,,30000000
+RBL Bank,15 days to 45 days,4.00%,,4.50%,,4.75%,,30000000
+RBL Bank,46 days to 90 days,4.50%,,5.00%,,5.25%,,30000000
+RBL Bank,91 days to 180 days,4.75%,,5.25%,,5.5%,,30000000
+RBL Bank,181 days to 240 days,5.50%,,6.00%,,6.25%,,30000000
+RBL Bank,241 days to 364 days,6.05%,,6.55%,,6.8%,,30000000
+RBL Bank,365 days to 452 days (12 months to less than 15 months),7.50%,,8.00%,,8.25%,,30000000
+RBL Bank,453 days to 499 days (15 months to 16 months 14 days),7.80%,,8.30%,,8.55%,,30000000
+RBL Bank,500 days,8.10%,,8.60%,,8.85%,,30000000
+RBL Bank,501 days to 545 days (16 months 16 days to less than 18 months),7.80%,,8.30%,,8.55%,,30000000
+RBL Bank,546 days to 24 months (18 months to 24 months),8.00%,,8.50%,,8.75%,,30000000
+RBL Bank,24 months 1 day to 36 months,7.50%,,8.00%,,8.25%,,30000000
+RBL Bank,36 months 1 day to 60 months 1 day,7.10%,,7.60%,,7.85%,,30000000
+RBL Bank,60 months 2 days to 120 months,7.00%,,7.50%,,7.75%,,30000000
+RBL Bank,Tax Savings Fixed Deposits (60 months),7.10%,,7.60%,,7.85%,,30000000
+Tamilnad Mercantile Bank,7-14 days,5.25%,,5.25%,,,,30000000
+Tamilnad Mercantile Bank,15-29 days,5.25%,,5.25%,,,,30000000
+Tamilnad Mercantile Bank,30-45 days,5.25%,,5.25%,,,,30000000
+Tamilnad Mercantile Bank,46-60 days,5.25%,,5.25%,,,,30000000
+Tamilnad Mercantile Bank,61-90 days,5.25%,,5.25%,,,,30000000
+Tamilnad Mercantile Bank,91-120 days,5.75%,,5.75%,,,,30000000
+Tamilnad Mercantile Bank,121-179 days,6.00%,,6.00%,,,,30000000
+Tamilnad Mercantile Bank,180-270 days,6.00%,,6.00%,,,,30000000
+Tamilnad Mercantile Bank,271 days to less than 1 year,6.00%,,6.00%,,,,30000000
+Tamilnad Mercantile Bank,1 year to less than 400 days,7.00%,,7.50%,,,,30000000
+Tamilnad Mercantile Bank,400 days,7.50%,,8.00%,,,,30000000
+Tamilnad Mercantile Bank,Above 400 days to less than 20 months & 20 days,7.00%,,7.50%,,,,30000000
+Tamilnad Mercantile Bank,20 months & 20 days,7.00%,,7.50%,,,,30000000
+Tamilnad Mercantile Bank,Above 20 months 20 days to less than 2 years,7.00%,,7.50%,,,,30000000
+Tamilnad Mercantile Bank,2 years to less than 3 years,6.75%,,7.25%,,,,30000000
+Tamilnad Mercantile Bank,3 years to 10 years,6.50%,,7.00%,,,,30000000
+IDBI Bank,07-30 days,3.00%,,3.50%,,,,30000000
+IDBI Bank,31-45 days,3.25%,,3.75%,,,,30000000
+IDBI Bank,46- 60 days,4.50%,,5.00%,,,,30000000
+IDBI Bank,61- 90 days,4.75%,,5.25%,,,,30000000
+IDBI Bank,91 days to 6 months,5.50%,,6.00%,,,,30000000
+IDBI Bank,6 months 1 day to 270    Days,6.00%,,6.50%,,,,30000000
+IDBI Bank,271 days to < 1 year                                                  (except 300 Days),6.25%,,6.75%,,,,30000000
+IDBI Bank,"1 Year to 2 Years                                                    (except 375 Days,444 Days & 700 Days)",6.80%,,7.30%,,,,30000000
+IDBI Bank,> 2 Years to <3years,7.00%,,7.50%,,,,30000000
+IDBI Bank,3 years to 5 years,6.50%,,7.00%,,,,30000000
+IDBI Bank,>5 years to 10 years,6.25%,,6.75%,,,,30000000
+IDBI Bank,>10 years to 20 years$,4.80%,,5.30%,,,,30000000
+IDBI Bank,5    Years,6.50%,,7.00%,,,,30000000
+Capital Small Finance Bank,15 Days to 30 Days,3.50%,,4.00%,,,,30000000
+Capital Small Finance Bank,31 Days to 45 Days,3.50%,,4.00%,,,,30000000
+Capital Small Finance Bank,46 Days to 89 Days,4.00%,,4.50%,,,,30000000
+Capital Small Finance Bank,90 Days to 179 Days,4.75%,,5.25%,,,,30000000
+Capital Small Finance Bank,180 Days to less than 1 Year,5.50%,,6.00%,,,,30000000
+Capital Small Finance Bank,1 Year to less than 5 Years,7.15%,,7.65%,,,,30000000
+Capital Small Finance Bank,5 Years and upto 10 Years,7.10%,,7.60%,,,,30000000
+Capital Small Finance Bank,12 Months,7.50%,,8.00%,,,,30000000
+Capital Small Finance Bank,400 Days,7.55%,,8.05%,,,,30000000
+Capital Small Finance Bank,600 Days,7.40%,,7.90%,,,,30000000
+Capital Small Finance Bank,900 Days,7.30%,,7.80%,,,,30000000
+Capital Small Finance Bank,5 years,7.10%,,7.6%,,,,30000000
+Suryoday Bank,7 days to 14 days,4.00%,4.00%,4.50%,4.50%,,,30000000
+Suryoday Bank,15 days to 45 days,4.25%,4.25%,4.75%,4.75%,,,30000000
+Suryoday Bank,46 days to 90 days,4.50%,4.50%,5.00%,5.00%,,,30000000
+Suryoday Bank,91 days to 6 months,5.00%,5.00%,5.50%,5.50%,,,30000000
+Suryoday Bank,6 Month 1 Day,7.25%,7.45%,7.75%,7.98%,,,30000000
+Suryoday Bank,Above 6 Month 1 Day to 9 Months,5.50%,5.61%,6.00%,6.14%,,,30000000
+Suryoday Bank,Above 9 months to less than 1 Year,6.00%,6.14%,6.50%,6.66%,,,30000000
+Suryoday Bank,1 Year*,6.85%,7.03%,7.35%,7.56%,,,30000000
+Suryoday Bank,Above 1 Year upto 15 months,8.25%,8.51%,8.75%,9.04%,,,30000000
+Suryoday Bank,Above 15 months to 2 years,8.50%,8.77%,9.00%,9.31%,,,30000000
+Suryoday Bank,Above 2 Years to 2 years 1 Day,8.60%,8.88%,9.10%,9.42%,,,30000000
+Suryoday Bank,2 Years  2 Days,8.65%,8.93%,9.10%,9.42%,,,30000000
+Suryoday Bank,2 years 3 Days up to 3 Years,8.60%,8.88%,9.10%,9.42%,,,30000000
+Suryoday Bank,Above 3 Years to less than 5 Years,6.75%,6.92%,7.25%,7.45%,,,30000000
+Suryoday Bank,5 Years,8.25%,8.51%,8.75%,9.04%,,,30000000
+Suryoday Bank,Above 5 years to 10 years,7.25%,7.45%,7.75%,7.98%,,,30000000
+Ujjivan Small Finance Bank,7 days to 29 days,3.75%,,,,,,30000000
+Ujjivan Small Finance Bank,30 days to 89 days,4.25%,,,,,,30000000
+Ujjivan Small Finance Bank,90 days to 179 days,4.75%,,,,,,30000000
+Ujjivan Small Finance Bank,6 months to < 9 months,7.00%,,,,,,30000000
+Ujjivan Small Finance Bank,9 months,7.50%,,,,,,30000000
+Ujjivan Small Finance Bank,9 months 1 day to <12 months,7.00%,,,,,,30000000
+Ujjivan Small Finance Bank,12 months,8.25%,,,,,,30000000
+Ujjivan Small Finance Bank,12 months 1 day  to 560 days(80 weeks),8.00%,,,,,,30000000
+Ujjivan Small Finance Bank,561 days to 990 days,7.75%,,,,,,30000000
+Ujjivan Small Finance Bank,991 days to 60 months,7.20%,,,,,,30000000
+Ujjivan Small Finance Bank,60 months 1 day to 120 months,6.50%,,,,,,30000000
+Utkarsh Small Finance Bank,7 Days to 45 Days,4.00%,,4.60%,,,,30000000
+Utkarsh Small Finance Bank,46 Days to 90 Days,4.75%,,5.35%,,,,30000000
+Utkarsh Small Finance Bank,91 Days to 180 Days,5.50%,,6.10%,,,,30000000
+Utkarsh Small Finance Bank,181 Days to 364 Days,6.50%,,7.10%,,,,30000000
+Utkarsh Small Finance Bank,365 Days to 699 Days,8.00%,,8.60%,,,,30000000
+Utkarsh Small Finance Bank,700 Days to less than 2 Years,8.25%,,8.85%,,,,30000000
+Utkarsh Small Finance Bank,2 Years upto 3 Years,8.50%,,9.10%,,,,30000000
+Utkarsh Small Finance Bank,Above 3 Years to less than 4 Years,8.25%,,8.85%,,,,30000000
+Utkarsh Small Finance Bank,4 Years upto 5 Years,7.50%,,8.10%,,,,30000000
+Utkarsh Small Finance Bank,Above 5 Years upto 10 Years,7.00%,,7.60%,,,,30000000
+ESAF Bank,7 days to 14 days,4.00%,,4.50%,,,,30000000
+ESAF Bank,15 days to 59 days,4.50%,,5.00%,,,,30000000
+ESAF Bank,60 days to 90 days,5.00%,,5.50%,,,,30000000
+ESAF Bank,91 days to 182 days,5.25%,,5.75%,,,,30000000
+ESAF Bank,183 days to 1 year,6.00%,,6.50%,,,,30000000
+ESAF Bank,1 year 1 day to less than 2 years,7.75%,,8.25%,,,,30000000
+ESAF Bank,2 years to less than 3 years,8.25%,,8.75%,,,,30000000
+ESAF Bank,3 years to less than 5 years,6.75%,,7.25%,,,,30000000
+ESAF Bank,5 years to 10 years,6.25%,,6.75%,,,,30000000
+IndusInd Bank,7 - 14 Days,3.25%,,3.75%,,,,50000000
+IndusInd Bank,15 - 29 Days,3.75%,,4.25%,,,,50000000
+IndusInd Bank,30 - 45 Days(1 month-1 month 15 days),4.25%,,4.75%,,,,50000000
+IndusInd Bank,46 - 90 Days(1 month 16 days-3 months),4.75%,,5.25%,,,,50000000
+IndusInd Bank,91 - 180 Days(3 months 1 day-6 months),6.25%,,6.75%,,,,50000000
+IndusInd Bank,181 - 365 Days(6 months 1 day-1 year),7.00%,,7.50%,,,,50000000
+IndusInd Bank,366 - 545 Days(1 year 1 day-1 year 6 months),8.75%,,9.25%,,,,50000000
+IndusInd Bank,546 - 1111 Days(1 year 6 months 1day-3 years 16 days),9.00%,,9.50%,,,,50000000
+IndusInd Bank,1112 - 1825 Days(3 years 17 days-4 years 11 months 30 days),8.00%,,8.50%,,,,50000000
+IndusInd Bank,1826 - 3650 Days(5 years -10 years),6.25%,,6.75%,,,,50000000
+Unity Small Finance Bank,7 - 14 Days,4.50%,,4.50%,,,,30000000
+Unity Small Finance Bank,15 - 45 Days,4.75%,,4.75%,,,,30000000
+Unity Small Finance Bank,46 - 60 Days,5.75%,,6.25%,,,,30000000
+Unity Small Finance Bank,61 - 90 Days,6.00%,,6.50%,,,,30000000
+Unity Small Finance Bank,91 - 164 Days,6.25%,,6.75%,,,,30000000
+Unity Small Finance Bank,165 Days - 6 Months,6.25%,,6.75%,,,,30000000
+Unity Small Finance Bank,> 6 Months - 201 Days,8.50%,,9.00%,,,,30000000
+Unity Small Finance Bank,202 - 364 Days,7.25%,,7.75%,,,,30000000
+Unity Small Finance Bank,1 Year,7.85%,,8.35%,,,,30000000
+Unity Small Finance Bank,1 Year 1 day,7.85%,,8.35%,,,,30000000
+Unity Small Finance Bank,> 1 Year 1 day - 500 days,7.85%,,8.35%,,,,30000000
+Unity Small Finance Bank,501 Days,8.75%,,9.25%,,,,30000000
+Unity Small Finance Bank,502 Days - 18 Months,7.85%,,8.35%,,,,30000000
+Unity Small Finance Bank,> 18 Months - 700 Days,7.90%,,8.40%,,,,30000000
+Unity Small Finance Bank,701 Days,8.75%,,9.25%,,,,30000000
+Unity Small Finance Bank,702 Days - 1000 Days,7.90%,,8.40%,,,,30000000
+Unity Small Finance Bank,1001 Days,9.00%,,9.50%,,,,30000000
+Unity Small Finance Bank,1002 Days - 3 Year,8.15%,,8.65%,,,,30000000
+Unity Small Finance Bank,> 3 Year - 5 Year,8.15%,,8.65%,,,,30000000
+Unity Small Finance Bank,> 5 Year - 10 Year,7.50%,,8.00%,,,,30000000
+Citibank India,7-10 Days,2.10%,-,,,,,30000000
+Citibank India,11-14 Days,2.10%,-,,,,,30000000
+Citibank India,15-25 Days,2.15%,-,,,,,30000000
+Citibank India,26-35 Days,2.15%,-,,,,,30000000
+Citibank India,36-45 Days,3.00%,-,,,,,30000000
+Citibank India,46-60 Days,3.00%,-,,,,,30000000
+Citibank India,61-90 Days,3.00%,-,,,,,30000000
+Citibank India,91-120 Days,3.00%,3.00%,,,,,30000000
+Citibank India,121-150 Days,3.00%,3.00%,,,,,30000000
+Citibank India,151-180 Days,3.00%,3.01%,,,,,30000000
+Citibank India,181-270 Days,3.00%,3.01%,,,,,30000000
+Citibank India,271-364 Days,3.00%,3.02%,,,,,30000000
+Citibank India,365-400 Days,3.00%,3.03%,,,,,30000000
+Citibank India,401-540 Days,3.00%,3.04%,,,,,30000000
+Citibank India,541-731 Days,3.00%,3.06%,,,,,30000000
+Citibank India,732 - 1095 Days,3.00%,3.08%,,,,,30000000
+Citibank India,>=1096 Days,3.00%,3.13%,,,,,30000000
+DBS Bank,7 days,2.50%,,2.50%,,,,30000000
+DBS Bank,8 days & up to 14 days,2.75%,,2.75%,,,,30000000
+DBS Bank,15 days & up to 29 days,4.00%,,4.00%,,,,30000000
+DBS Bank,30 days & up to 45 days,4.50%,,4.50%,,,,30000000
+DBS Bank,46 days & up to 60 days,4.50%,,4.50%,,,,30000000
+DBS Bank,61 days,5.00%,,5.00%,,,,30000000
+DBS Bank,62 days & up to 90 days,5.00%,,5.00%,,,,30000000
+DBS Bank,91 to 180 days,5.00%,,5.00%,,,,30000000
+DBS Bank,181 to 269 days,6.00%,,6.50%,,,,30000000
+DBS Bank,270 to less than 1 year,6.00%,,6.50%,,,,30000000
+DBS Bank,1 year to 375 days,7.00%,,7.50%,,,,30000000
+DBS Bank,376 days to 540 days,7.50%,,8.00%,,,,30000000
+DBS Bank,541 days to 599 days,7.25%,,7.75%,,,,30000000
+DBS Bank,600 days,7.25%,,7.75%,,,,30000000
+DBS Bank,601 days to less than 2 years,7.25%,,7.75%,,,,30000000
+DBS Bank,2 years to less than 2 years & 6 months,7.00%,,7.50%,,,,30000000
+DBS Bank,2 years & 6 months,7.00%,,7.50%,,,,30000000
+DBS Bank,2 years 6 months 1 day & less than 3 years,7.00%,,7.50%,,,,30000000
+DBS Bank,3 years and less than 4 years,6.50%,,7.00%,,,,30000000
+DBS Bank,4 years to less than 5 years,6.50%,,7.00%,,,,30000000
+DBS Bank,5 years and above,6.50%,,7.00%,,,,30000000
+Deutsche Bank,7 Days,3.00%,,3.00%,,,,30000000
+Deutsche Bank,8 - 14 Days,3.00%,,3.00%,,,,30000000
+Deutsche Bank,15 - 29 Days,3.00%,,3.00%,,,,30000000
+Deutsche Bank,30 Days,4.00%,,4.00%,,,,30000000
+Deutsche Bank,31 - 45 Days,4.00%,,4.00%,,,,30000000
+Deutsche Bank,46 - 59 Days,5.25%,,5.25%,,,,30000000
+Deutsche Bank,60 - 89 Days,5.25%,,5.25%,,,,30000000
+Deutsche Bank,90 - 99 Days,5.25%,,5.25%,,,,30000000
+Deutsche Bank,100 Days,7.00%,,7.00%,,,,30000000
+Deutsche Bank,101 - 180 Days,7.00%,,7.00%,,,,30000000
+Deutsche Bank,181 - 270 Days,7.00%,,7.00%,,,,30000000
+Deutsche Bank,271 Days - 1 Yr,7.00%,,7.00%,,,,30000000
+Deutsche Bank,> 1 Yr - 1.5 Yrs,8.00%,,8.00%,,,,30000000
+Deutsche Bank,> 1.5 Yrs - 2 Yrs,8.00%,,8.00%,,,,30000000
+Deutsche Bank,> 2 Yrs - 3 Yrs,8.00%,,8.00%,,,,30000000
+Deutsche Bank,> 3 Yrs - 4 Yrs,7.00%,,7.00%,,,,30000000
+Deutsche Bank,> 4 Yrs - <5 Yrs,7.00%,,7.00%,,,,30000000
+Deutsche Bank,5 Yrs,7.50%,,7.50%,,,,30000000
+HSBC Bank,7 Days,2.85%,,3.35%,,,,30000000
+HSBC Bank,8 Days,2.85%,,3.35%,,,,30000000
+HSBC Bank,9 to 14 Days,3.00%,,3.50%,,,,30000000
+HSBC Bank,15 to 29 Days,3.00%,,3.50%,,,,30000000
+HSBC Bank,30 to 59 Days,3.40%,,3.90%,,,,30000000
+HSBC Bank,60 to 89 Days,3.60%,,4.10%,,,,30000000
+HSBC Bank,90 to 93 Days,3.80%,,4.30%,,,,30000000
+HSBC Bank,94 Days,3.80%,,4.30%,,,,30000000
+HSBC Bank,95 to 179 Days,4.00%,,4.50%,,,,30000000
+HSBC Bank,180 Days,4.50%,,5.00%,,,,30000000
+HSBC Bank,181 to 269 Days,3.25%,,3.75%,,,,30000000
+HSBC Bank,270 Days to 364 Days,3.7%,,4.2%,,,,30000000
+HSBC Bank,365 Days,4%,,4.5%,,,,30000000
+HSBC Bank,366 Days to 399 Days,4%,,4.5%,,,,30000000
+HSBC Bank,400 Days,3.25%,,3.75%,,,,30000000
+HSBC Bank,401 Days to less than 18 months,6.25%,,6.75%,,,,30000000
+HSBC Bank,18 months to 599 days,4.1%,,4.6%,,,,30000000
+HSBC Bank,600 days,3.75%,,4.25%,,,,30000000
+HSBC Bank,601 to 699 days,7.50%,,8.00%,,,,30000000
+HSBC Bank,700 days,3.75%,,4.25%,,,,30000000
+HSBC Bank,701 days to 730 days,4.25%,,4.75%,,,,30000000
+HSBC Bank,731 Days,4.25%,,4.75%,,,,30000000
+HSBC Bank,732 days to less than 36 months,6.50%,,7.00%,,,,30000000
+HSBC Bank,36 months to less than 37 months,7.00%,,7.50%,,,,30000000
+HSBC Bank,37 months to less than 48 months,6.00%,,6.50%,,,,30000000
+HSBC Bank,48 months to 60 months,6.00%,,6.50%,,,,30000000
+Standard Chartered Bank,7 – 9 days,2.75%,,,,,,20000000
+Standard Chartered Bank,10-14 days,2.75%,,,,,,20000000
+Standard Chartered Bank,15 -17days,2.75%,,,,,,20000000
+Standard Chartered Bank,18-20days,2.75%,,,,,,20000000
+Standard Chartered Bank,21-23days,2.75%,,,,,,20000000
+Standard Chartered Bank,24-26 days,2.75%,,,,,,20000000
+Standard Chartered Bank,27-29days,2.75%,,,,,,20000000
+Standard Chartered Bank,30-32 days,2.75%,,,,,,20000000
+Standard Chartered Bank,33-35 days,2.75%,,,,,,20000000
+Standard Chartered Bank,36-38 days,2.75%,,,,,,20000000
+Standard Chartered Bank,39-41 days,2.75%,,,,,,20000000
+Standard Chartered Bank,42-44 days,2.75%,,,,,,20000000
+Standard Chartered Bank,45 -47 days,3.25%,,,,,,20000000
+Standard Chartered Bank,48-50 days,3.25%,,,,,,20000000
+Standard Chartered Bank,51-53 days,3.25%,,,,,,20000000
+Standard Chartered Bank,54-56 days,3.25%,,,,,,20000000
+Standard Chartered Bank,57-59 days,3.25%,,,,,,20000000
+Standard Chartered Bank,60-74 days,3.50%,,,,,,20000000
+Standard Chartered Bank,75-85 days,3.50%,,,,,,20000000
+Standard Chartered Bank,86 -104 days,5.50%,,,,,,20000000
+Standard Chartered Bank,105-120 days,5.50%,,,,,,20000000
+Standard Chartered Bank,121 -149 days,5.50%,,,,,,20000000
+Standard Chartered Bank,150-164 days,5.50%,,,,,,20000000
+Standard Chartered Bank,165-180 days,5.50%,,,,,,20000000
+Standard Chartered Bank,181-210 days,6.50%,,,,,,20000000
+Standard Chartered Bank,211-226 days,6.50%,,,,,,20000000
+Standard Chartered Bank,227 – 269 days,6.50%,,,,,,20000000
+Standard Chartered Bank,270 days-345 days,6.50%,,,,,,20000000
+Standard Chartered Bank,346 days-364 days,7.00%,,,,,,20000000
+Standard Chartered Bank,1yr  – 375days*,7.50%,,,,,,20000000
+Standard Chartered Bank,376 -390 days,7.25%,,,,,,20000000
+Standard Chartered Bank,391 days < 18 Months,7.20%,,,,,,20000000
+Standard Chartered Bank,18M  < 21M,7.20%,,,,,,20000000
+Standard Chartered Bank,21M < 2 Yrs,7.20%,,,,,,20000000
+Standard Chartered Bank,2 Yrs < 3 Yrs,7.20%,,,,,,20000000
+Standard Chartered Bank,3 Yrs < 4 Yrs,7.10%,,,,,,20000000
+Standard Chartered Bank,4 Yrs < 5Yrs,6.75%,,,,,,20000000
+Standard Chartered Bank,5Yrs,6.75%,,,,,,20000000
